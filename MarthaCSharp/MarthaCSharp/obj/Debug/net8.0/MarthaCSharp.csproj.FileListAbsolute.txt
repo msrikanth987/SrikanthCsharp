@@ -1,0 +1,14 @@
+C:\MarthaCsharp\MarthaCSharp\MarthaCSharp\obj\Debug\net8.0\MarthaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MarthaCsharp\MarthaCSharp\MarthaCSharp\obj\Debug\net8.0\MarthaCSharp.AssemblyInfoInputs.cache
+C:\MarthaCsharp\MarthaCSharp\MarthaCSharp\obj\Debug\net8.0\MarthaCSharp.AssemblyInfo.cs
+C:\MarthaCsharp\MarthaCSharp\MarthaCSharp\obj\Debug\net8.0\MarthaCSharp.csproj.CoreCompileInputs.cache
+C:\MarthaCsharp\MarthaCSharp\MarthaCSharp\bin\Debug\net8.0\MarthaCSharp.exe
+C:\MarthaCsharp\MarthaCSharp\MarthaCSharp\bin\Debug\net8.0\MarthaCSharp.deps.json
+C:\MarthaCsharp\MarthaCSharp\MarthaCSharp\bin\Debug\net8.0\MarthaCSharp.runtimeconfig.json
+C:\MarthaCsharp\MarthaCSharp\MarthaCSharp\bin\Debug\net8.0\MarthaCSharp.dll
+C:\MarthaCsharp\MarthaCSharp\MarthaCSharp\bin\Debug\net8.0\MarthaCSharp.pdb
+C:\MarthaCsharp\MarthaCSharp\MarthaCSharp\obj\Debug\net8.0\MarthaCSharp.dll
+C:\MarthaCsharp\MarthaCSharp\MarthaCSharp\obj\Debug\net8.0\refint\MarthaCSharp.dll
+C:\MarthaCsharp\MarthaCSharp\MarthaCSharp\obj\Debug\net8.0\MarthaCSharp.pdb
+C:\MarthaCsharp\MarthaCSharp\MarthaCSharp\obj\Debug\net8.0\MarthaCSharp.genruntimeconfig.cache
+C:\MarthaCsharp\MarthaCSharp\MarthaCSharp\obj\Debug\net8.0\ref\MarthaCSharp.dll
