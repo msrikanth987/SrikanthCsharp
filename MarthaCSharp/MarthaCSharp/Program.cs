@@ -258,9 +258,7 @@ namespace HelloWorld
         {
             return x + y;
         }
-        //lets this add
-
-        //lets check the main checkout
+      // removed 2 comments
 
 
 
