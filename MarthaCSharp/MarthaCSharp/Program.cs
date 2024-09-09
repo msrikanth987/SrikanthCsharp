@@ -219,7 +219,6 @@ namespace HelloWorld
             Console.WriteLine(myObj2.color);
 
 
-            // created an object of the car class this will call the constructor of car class
 
            Car myObj3 = new Car();
             myObj3.Model = "tesla";
