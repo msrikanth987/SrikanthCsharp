@@ -246,7 +246,7 @@ namespace HelloWorld
 
 
         }
-        // below methods are out side of main method 
+       
        static void Mymethod()
         {
             Console.WriteLine("i am calling the method in other class");
